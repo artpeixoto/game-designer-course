@@ -1,37 +1,52 @@
-High Concept:
-		  Baseado no projeto computador analogico THAT, THAT GAME é um jogo onde o jogador usa de THATs como ferramenta principal para construir dispositivos robóticos, coletar recursos, arquitetar linhas de produção automatizadas, e se proteger da vida selvagem agressiva em um planeta estranho. 
+Modulo 1:
+		  High Concept:
+					 Baseado no projeto computador analogico THAT, THAT GAME é um jogo onde o jogador usa de THATs como ferramenta principal para construir dispositivos robóticos, coletar recursos, arquitetar linhas de produção automatizadas, e se proteger da vida selvagem agressiva em um planeta estranho. 
 
-Game Overview:
-		  THAT é um projeto (real) de computador analogico, open souce. Ele é capaz de simular fenomenos naturais (equações diferenciais, mas não vou entrar nisso) e tambem controla-los. Trata-se de um paradigma de computação alternativo a computação digital. 	
-		  Inspirado em jogos estilo Zachtronics e Factorio, THAT GAME é um jogo que gira em torno de explorar o potencial do uso do THAT o colocando em um ambiente virtual seguro e que fomenta e desafia a criatividade do jogador.
-		  O contexto do jogo ainda não está completamente definido, mas provavelmente seria um ou num contexto semelhante ao de Factorio, onde o jogador é um engenheiro que se ve em um planeta desolado, e que constroi e automatiza linhas de montagem afim de eventualmente construir um foguete para fugir do planeta ou poderia ser so uma série níveis constituidos de desafios baseados na mecânica principal.
-		  No jogo, há multiplas "lentes" ou "visores". No visor básico, há o mundo físico (do jogo). Nele, o jogador pode montar robos usando de motores, pinceis de materiais (como os em little big planet), sensores e outros dispositivos, que supostamente resolveriam a algum desafio. No segundo visor, o jogador pode criar controladores baseados em THATs e inseri-los e conecta-los a suas invencoes, para faze-las se comportar como ele quiser. 
-		  Parte do charme do jogo é ser baseado e transponivel para o mundo real: o THAT é um computador analógico real. Baseariamos-nos no potente motor físico da Unity. A diferença com a realidade seria que o ambiente de simulação seria idealizado e extremamente rico em recuros, mas tudo que for criado la dentro poderia existir na realidade tambem. 
-		  O jogo talvez venha a ser "de nicho" por conta de se basear no gosto do jogador por inventar soluções de engenharia, mas outros jogos, como infinifactory, screeps, factorio, little big planet (modo criativo), conseguiram cativar seu publico a partir desse gosto.
+		  Game Overview:
+					 THAT é um projeto (real) de computador analogico, open souce. Ele é capaz de simular fenomenos naturais (equações diferenciais, mas não vou entrar nisso) e tambem controla-los. Trata-se de um paradigma de computação alternativo a computação digital. 	
+					 Inspirado em jogos estilo Zachtronics e Factorio, THAT GAME é um jogo que gira em torno de explorar o potencial do uso do THAT o colocando em um ambiente virtual seguro e que fomenta e desafia a criatividade do jogador.
+					 O contexto do jogo ainda não está completamente definido, mas provavelmente seria um ou num contexto semelhante ao de Factorio, onde o jogador é um engenheiro que se ve em um planeta desolado, e que constroi e automatiza linhas de montagem afim de eventualmente construir um foguete para fugir do planeta ou poderia ser so uma série níveis constituidos de desafios baseados na mecânica principal.
+					 No jogo, há multiplas "lentes" ou "visores". No visor básico, há o mundo físico (do jogo). Nele, o jogador pode montar robos usando de motores, pinceis de materiais (como os em little big planet), sensores e outros dispositivos, que supostamente resolveriam a algum desafio. No segundo visor, o jogador pode criar controladores baseados em THATs e inseri-los e conecta-los a suas invencoes, para faze-las se comportar como ele quiser. 
+					 Parte do charme do jogo é ser baseado e transponivel para o mundo real: o THAT é um computador analógico real. Baseariamos-nos no potente motor físico da Unity. A diferença com a realidade seria que o ambiente de simulação seria idealizado e extremamente rico em recuros, mas tudo que for criado la dentro poderia existir na realidade tambem. 
+					 O jogo talvez venha a ser "de nicho" por conta de se basear no gosto do jogador por inventar soluções de engenharia, mas outros jogos, como infinifactory, screeps, factorio, little big planet (modo criativo), conseguiram cativar seu publico a partir desse gosto.
 
-Titulo do jogo:
-		  THAT GAME
-		  (TH)e (A)nalog (T)hing (G)eneral (A)pplication (M)odelling (E)nviroment 
+		  Titulo do jogo:
+					 THAT GAME
+					 (TH)e (A)nalog (T)hing (G)eneral (A)pplication (M)odelling (E)nviroment 
 
-O que faz dele Unico?
-		  O jogo é baseado no prazer da engenharia e de sua aplicação. Ele apresentaria a aplicação num ambiente desafiodor e criativo sob um novo paradigma de processamento de informações, mas sem os limites da realidade, como preço para conseguir esses dispositivos ou a dificuldade de analisa-los sem as ferramentas apropriadas.
-		  Além disso, o jogo se basearia em ser "recriavel". Há poucas regras realmente fundamentais, e todas as outras são construidas a partir delas. Isso quer dizer que, se, por exemplo, o jogo recompensar o jogador com um dispositivo, o jogador poderia examinar o funcionamento desse dispositivo para criar uma versão sua a partir do zero.
+		  O que faz dele Unico?
+					 O jogo é baseado no prazer da engenharia e de sua aplicação. Ele apresentaria a aplicação num ambiente desafiodor e criativo sob um novo paradigma de processamento de informações, mas sem os limites da realidade, como preço para conseguir esses dispositivos ou a dificuldade de analisa-los sem as ferramentas apropriadas.
+					 Além disso, o jogo se basearia em ser "recriavel". Há poucas regras realmente fundamentais, e todas as outras são construidas a partir delas. Isso quer dizer que, se, por exemplo, o jogo recompensar o jogador com um dispositivo, o jogador poderia examinar o funcionamento desse dispositivo para criar uma versão sua a partir do zero.
 
-Principais Gameplay Features:
-		  Essencial:
-					 Tela de desenvolvimento de circuitos THAT, quantos quiser, da complexidade que o jogador quiser, sem limites de tamanho . 
-					 Tela de desenvolvimento de partes físicas, robos, atuadores (num ambiente semelhante ao de little big planet) 
-					 Tela principal, com o dispositivo criado funcionando.
-		  Básica: 
-					 Lista de desafios para avancar no jogo
-					 O jogador pode ver informações da sua solução durante a execução.
-		  Especial:
-					 Desafios secundarios, para testar a performance tem como recompensa alguns dispositivos ajudantes ou materiais estéticos.
-		  Extra:
-					 Captura de arquitetura:
-								As vezes, para implementar adequadamente um controlador, eh necessário ter um modelo dele no papel. O jogador poderia usar uma caixa de seleção para "tirar uma foto" e o resultado de alguma coisa, como um braco robótico, e o resultado seria um circuito THAT que simula aquele braco robotico.
-					 Biblioteca de projetos:
-								Parte do apelo do jogo se baseia no prazer em automatizar as coisas. Reuso é importante. O jogador poderia capturar seus projetos em uma ferramente. Eles apareceriam num "livro de projetos" e poderiam simplesmente cola-lo para usarem quantas vezes quiserem.
+		  Principais Gameplay Features:
+					 Essencial:
+								Tela de desenvolvimento de circuitos THAT, quantos quiser, da complexidade que o jogador quiser, sem limites de tamanho . 
+								Tela de desenvolvimento de partes físicas, robos, atuadores (num ambiente semelhante ao de little big planet) 
+								Tela principal, com o dispositivo criado funcionando.
+					 Básica: 
+								Lista de desafios para avancar no jogo
+								O jogador pode ver informações da sua solução durante a execução.
+					 Especial:
+								Desafios secundarios, para testar a performance tem como recompensa alguns dispositivos ajudantes ou materiais estéticos.
+					 Extra:
+								Captura de arquitetura:
+										  As vezes, para implementar adequadamente um controlador, eh necessário ter um modelo dele no papel. O jogador poderia usar uma caixa de seleção para "tirar uma foto" e o resultado de alguma coisa, como um braco robótico, e o resultado seria um circuito THAT que simula aquele braco robotico.
+								Biblioteca de projetos:
+										  Parte do apelo do jogo se baseia no prazer em automatizar as coisas. Reuso é importante. O jogador poderia capturar seus projetos em uma ferramente. Eles apareceriam num "livro de projetos" e poderiam simplesmente cola-lo para usarem quantas vezes quiserem.
 
-					
-
+Modulo 2:	
+		  Plataforma:
+					 PC, com entrada por teclado e mouse, e por conta da potencia dos processadores (presumo que o jogo pode vir a ser pesado, por ser de caráter criativo)
+					 Talvez smartphone tambem, por conta do input (seria muito intuitivo conectar as coisas via celular).
+		  Público-alvo:
+					 Nicho de jogadores de jogos estilo zachtronics. 
+					 Presumo que  agrande maioria é de alguma área STEM, e portanto tem acesso a computadores de potencia reazoavel (para suas ferramentas).
+					 Não há preferencia por genero.
+					 Publico mais adulto.
+		  Gênero do Jogo:
+					 Quebra cabeça
+					 Sobrevivencia 			(talvez)
+					 Manutenção de recursos (talvez)
+		  Modelo de negócios
+					 Demo, com a versão premium razoavelmente barata.
+					 
