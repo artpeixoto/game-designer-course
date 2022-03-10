@@ -79,5 +79,28 @@ Publico-Alvo e Plataforma:
 								- Etc.
 					 - Pelo que me parece, muitos dos generos são baseados no elemento de input, interação por parte do jogador, ou em termos do que o jogador manipula o mundo do jogo.
 		  - Modelo de negócios do jogos:
-					 - è basicamente a forma de conseguir receita sobre o jogo
-					 - deve ser determinada para ajsutar o jogo.
+					 - è basicamente a forma de conseguir receita sobre o jogo deve ser determinada para ajsutar o jogo.
+					 
+					 - exemplos:
+								- Premium:
+										  - pague uma vez
+										  - Todo o conteudo é disponível.
+										  - pode ter dlc, mas é uma área arriscada.
+								- Freemium: 
+										  - Jogo é disponibilizado gratuitamente.
+										  - Mas muito do conteudo do jogo depende de pagamento.
+										  - Grande número de usuários.
+										  - *Trabalho* por dinheiro sem afetar os outros
+										  - Cosméticos.
+										  - Seasons acaba dando uma forma do jogador se expressar e expressar sua idfentidade e relação com o jogo. É um modelo que pode dar bom sucesso.
+								- Demo:
+										  - Premium so que da pra experimentar antes de comprar.
+										  - Possível que leve a um número de usuários maior. 
+										  - Dá uma forma de engajar o jogador com as mecânicas.
+										  - É bom para métricas também.
+
+								- Assinatura:
+										  - Modelo novo, um exempo é o gamepass
+										  - Requer mais uma parte, não é apenas entre o jogador e o estúdio.
+										  - exit
+										  :
