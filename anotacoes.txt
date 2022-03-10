@@ -1,0 +1,83 @@
+Publico-Alvo e Plataforma:
+		  Publico-Alvo:
+					 - Definir o publico alvo é importante para ajustar a experiencia a algo que se conecte melhor ao seu jogador.
+					 - As vezes pode vir a ter um beneficio economico, pois pode ser o caso de outras empresas não satisfazerem algum desejo desse publico. 
+					 - Diversidade sempre é bom, então não é bom limitar. 
+					 - A plataforma acaba refeletindo esse publico, então se ajustar a essa plataforma cai bem.
+					 - Exemplos: 
+								E-sports: publico mais competitivo; jovem (16-22); homens e mulheres alike (pessoalmente, n acho adequado diferir por genero. N é problema, mas acho que limita). Resultado é que a maioria desses jogos tem graficos simples, mas se limitam a serem lancados pro computador ou outras plataformas mais focadas
+								God of War: Publico mais masculino, idade mais avançada, costume de jogar leva a ter um ps4 ou ps5. Violencia, histora e estetica mais realista.
+		  Plataformas: 
+					 - Principais plataformas:
+								- Playstation, xbox.
+								- Nintendo Switch.
+								- PC	
+								- Mobile
+					 - Dispositivos de entrada e controles:
+								- Caso do controle tipico
+										  - é o comum em playstation, xbox, etc.
+										  - o controle do ps4 e ps5 tem o diferencial de ter telas touchscreen no centro. O nintendo switch tbm tem se estiver em modo portatil.
+								- Caso do nintendo swithc
+										  - Controle tipico com touchscreen quando em modo portatil.
+										  - Pode ser destacado, e virar dois controles mais simples.
+								- Teclado e mouse.
+								- Tela touchscreen.
+								- Teoria de controles: pesquisar (?)
+					 - Base instalada:
+								- A base instalada de um videogame é a quantidade de vdeogames daquele modelo comprados.
+								- É disponibilizado no mundo todo?
+					 - Formas de distribuição e desenvolvimento naquela plataforma:
+								- Apple:
+										  - Anuidade de 100US$
+										  - Compilacao deve ocorrer num dispositivo apple
+										  - pau no cu deles
+								- Android
+										  - Voce ja sabe
+								- PC
+										  - Steam, Epic Games, Origin (pau no cu)
+										  - Muitas possibilidades de entrada
+										  - Tem que adaptar a performance do jogo, ou dar opção de o fazer
+										  - Grande mercado consumidor
+										  
+					 - Realidade Virtual:
+								- Principais: 
+										  - Oculus Rift, Oculus Quest.
+										  - Playstation VR
+										  - HTC Vive (mais acessivel)
+								- Tecnologia 6dof.
+								- Realidade aumentada:
+										  - provavelmente não da bom
+										  - facebook pode enfiar isso no cu.
+					 - Plataformas:
+								- Streaming de jogos
+								- Streaming de gameplay.
+					 - Desenvolvimento:
+								- Rrequisitos tecnicos:
+										  - Algumas tecnologias requerem hardwares especializados, como kits de desenvolvimento.
+										  - Outras tecnolgoias nao requerem um kit de desenvolvimento, mas requerem o hardware em si, como o oculus rift. Em outros casos, se voce vir a conversar com a empresa, apresentando uma ideia interessante, ela pode vir a ate enviar um kit gratuito.
+							   - Público-alvo daquela plataforam			  
+								- Base instalada:
+								- Tendencias do mercado naquela plataforma.
+		  - Gênero do jogo:
+					- Gênero do jogo é o estilo do jogo, basicamente 
+					- Pode se ater a mais de um gênero.
+					- Lista de gêneros:
+								- Ação
+								- Aventura
+								- Estratégia
+								- Tiro
+								- RPG
+								- Esportes 	 > -> Tem algum comprometimento com realismo
+								- Simulador / 
+								- Luta
+								- Puzzle
+								- Manutenção de recursos
+								- Plataforma
+								- Horror (Questionavel?)
+								- Musical
+								- Corrida
+								- Etc.
+					 - Pelo que me parece, muitos dos generos são baseados no elemento de input, interação por parte do jogador, ou em termos do que o jogador manipula o mundo do jogo.
+		  - Modelo de negócios do jogos:
+					 - è basicamente a forma de conseguir receita sobre o jogo
+					 - deve ser determinada para ajsutar o jogo.
