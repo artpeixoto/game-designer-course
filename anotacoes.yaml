@@ -1,0 +1,225 @@
+Publico-Alvo e Plataforma:
+		  Publico-Alvo:
+					 - Definir o publico alvo é importante para ajustar a experiencia a algo que se conecte melhor ao seu jogador.
+					 - As vezes pode vir a ter um beneficio economico, pois pode ser o caso de outras empresas não satisfazerem algum desejo desse publico. 
+					 - Diversidade sempre é bom, então não é bom limitar. 
+					 - A plataforma acaba refeletindo esse publico, então se ajustar a essa plataforma cai bem.
+					 - Exemplos: 
+								E-sports: publico mais competitivo; jovem (16-22); homens e mulheres alike (pessoalmente, n acho adequado diferir por genero. N é problema, mas acho que limita). Resultado é que a maioria desses jogos tem graficos simples, mas se limitam a serem lancados pro computador ou outras plataformas mais focadas
+								God of War: Publico mais masculino, idade mais avançada, costume de jogar leva a ter um ps4 ou ps5. Violencia, histora e estetica mais realista.
+		  Plataformas: 
+					 - Principais plataformas:
+								- Playstation, xbox.
+								- Nintendo Switch.
+								- PC	
+								- Mobile
+					 - Dispositivos de entrada e controles:
+								- Caso do controle tipico
+										  - é o comum em playstation, xbox, etc.
+										  - o controle do ps4 e ps5 tem o diferencial de ter telas touchscreen no centro. O nintendo switch tbm tem se estiver em modo portatil.
+								- Caso do nintendo swithc
+										  - Controle tipico com touchscreen quando em modo portatil.
+										  - Pode ser destacado, e virar dois controles mais simples.
+								- Teclado e mouse.
+								- Tela touchscreen.
+								- Teoria de controles: pesquisar (?)
+					 - Base instalada:
+								- A base instalada de um videogame é a quantidade de vdeogames daquele modelo comprados.
+								- É disponibilizado no mundo todo?
+					 - Formas de distribuição e desenvolvimento naquela plataforma:
+								- Apple:
+										  - Anuidade de 100US$
+										  - Compilacao deve ocorrer num dispositivo apple
+										  - pau no cu deles
+								- Android
+										  - Voce ja sabe
+								- PC
+										  - Steam, Epic Games, Origin (pau no cu)
+										  - Muitas possibilidades de entrada
+										  - Tem que adaptar a performance do jogo, ou dar opção de o fazer
+										  - Grande mercado consumidor
+										  
+					 - Realidade Virtual:
+								- Principais: 
+										  - Oculus Rift, Oculus Quest.
+										  - Playstation VR
+										  - HTC Vive (mais acessivel)
+								- Tecnologia 6dof.
+								- Realidade aumentada:
+										  - provavelmente não da bom
+										  - facebook pode enfiar isso no cu.
+					 - Plataformas:
+								- Streaming de jogos
+								- Streaming de gameplay.
+					 - Desenvolvimento:
+								- Rrequisitos tecnicos:
+										  - Algumas tecnologias requerem hardwares especializados, como kits de desenvolvimento.
+										  - Outras tecnolgoias nao requerem um kit de desenvolvimento, mas requerem o hardware em si, como o oculus rift. Em outros casos, se voce vir a conversar com a empresa, apresentando uma ideia interessante, ela pode vir a ate enviar um kit gratuito.
+							   - Público-alvo daquela plataforam			  
+								- Base instalada:
+								- Tendencias do mercado naquela plataforma.
+		  - Gênero do jogo:
+					- Gênero do jogo é o estilo do jogo, basicamente 
+					- Pode se ater a mais de um gênero.
+					- Lista de gêneros:
+								- Ação
+								- Aventura
+								- Estratégia
+								- Tiro
+								- RPG
+								- Esportes 	 > -> Tem algum comprometimento com realismo
+								- Simulador / 
+								- Luta
+								- Puzzle
+								- Manutenção de recursos
+								- Plataforma
+								- Horror (Questionavel?)
+								- Musical
+								- Corrida
+								- Etc.
+					 - Pelo que me parece, muitos dos generos são baseados no elemento de input, interação por parte do jogador, ou em termos do que o jogador manipula o mundo do jogo.
+		  - Modelo de negócios do jogos:
+					 - è basicamente a forma de conseguir receita sobre o jogo deve ser determinada para ajsutar o jogo.
+					 
+					 - exemplos:
+								- Premium:
+										  - pague uma vez
+										  - Todo o conteudo é disponível.
+										  - pode ter dlc, mas é uma área arriscada.
+								- Freemium: 
+										  - Jogo é disponibilizado gratuitamente.
+										  - Mas muito do conteudo do jogo depende de pagamento.
+										  - Grande número de usuários.
+										  - *Trabalho* por dinheiro sem afetar os outros
+										  - Cosméticos.
+										  - Seasons acaba dando uma forma do jogador se expressar e expressar sua idfentidade e relação com o jogo. É um modelo que pode dar bom sucesso.
+								- Demo:
+										  - Premium so que da pra experimentar antes de comprar.
+										  - Possível que leve a um número de usuários maior. 
+										  - Dá uma forma de engajar o jogador com as mecânicas.
+										  - É bom para métricas também.
+
+								- Assinatura:
+										  - Modelo novo, um exempo é o gamepass
+										  - Requer mais uma parte, não é apenas entre o jogador e o estúdio.
+
+- Produção:
+		  - Cronograma de produção:
+					 - Pre-alpha:
+                        - Requerimentos do seu projeto
+                        - Que tipos de software, profissionais, etc.
+                        - Determinação dos testes:
+                                - O que você quer ver nos seus testes
+					 - Prototipagem 
+                        - Validação dos conceitos do jogo.
+							   - Não é a versão final:
+										 - Deve ser bem rápido, 
+										 - Facil de se modificar. 
+										 - Pode ser baguncado Não se apegue. 
+								- Experimentação:
+										  - Brincar muito com os valores.
+										  - Ouvir feedbacks.
+										  - ver se a idéia funciona.
+
+								- Pico8
+								- Risk assessment:
+										  - Anotar quais o possiveis problemas na idéia geral
+
+					 - Planejamento do desenvolvimento 
+								- Uma vez validada a parte da prototipagem, planeja-se o desenvolvimento.
+								- Planejamento do desenvolvimento do gueime.			
+								- Ferramentas:
+										  - Scrum:
+													 - COmum no mercado de desenvolvimento de games.
+													 - Baseado em dividir grandes partes em sprints
+													 - Daily Meetings.
+					 - Versão alpha:
+								- Começa-se os primeiros testes técnicos.
+								- Bugs:
+                                - São separados em:
+                                        - Bugs P1: 
+                                                - Aqueles que atrapalham o jogo. São bugs maiores
+                                        - Bugs P2
+                                        - Bugs P3
+                        - Balanceamento:
+                                 - Pode haver quebra de expectativa
+                                 - Fazer o jogador sentir que ele está aprendendo por si
+                                 - Curva de aprendizado (curva habilidade x dificuldade) 
+                                 - Ajustes
+
+                - Versão Beta:
+                        - Grande quantidade de testes.
+                        - Não há alterações mais drásticas
+					 - Polimento:
+                        - Melhoria das mecânicas, sistemas e a apresentação deles
+					 - Closed Beta Version 
+                        - Testes internos.
+                - Release candidate (ou open beta?)
+                        - Fase de testes final.
+					 - Versão final.
+                        - A mais completa.
+		  - Feedbacking: 
+					 - Acontece durante todo o processo.
+					 - Registrar os feedbacks.
+		  - Desenvolvimento da versao alpha:
+                - asdf
+                
+- Jogabilidade:
+        - Jocus -> atividade estruturada onde ha a figura do jogador.
+        - Elementos de um jogo: 
+                - Numero de jogadores:
+                        - Singleplayer
+                        - Multijogadores:
+                                - Tipico
+                                - Grande numero de jogadores
+                                - Cooperativos.
+
+                - Inicio e fim do jogo:
+                        - Sentimento de evolucao (importante)
+                        - Fim e comeco das fases e tudo mais.
+
+                - Interacao:
+                        - Permitir ao jogador experientar com as mecanicas do seu jogo.
+                        - Tutorial
+                        - O jogador pode aprender por si so. Nao ha necessidade de explicitar tudo
+
+                - Objetivo do jogo:
+                        - Eh util usar de uma cutscene ou algo assim para apresentar ao jogador o contexto do seu personagem e o que ele deve fazer dentro do jogo. 
+                        - Alinahr motivacoes. 
+                        
+                - Condicao de vitoria e derrota:
+                        - Deve haver um ciclo de feedback, com indicacoes da conexao entre as acoes do jogador e suas consequencias.
+                        - Voce ensina as regras do jogo e ajuda a engajar o jogador.
+
+                - Satisfacao:
+                        - Tudo isso deve ser unido, amarrado de forma satisfatoria, que traga valor ao jogador, geralmente por diversao.
+
+        - Pesquisa de referencias:
+                - Pesquisar e analisar muitos jogos
+                - Eh bom pesquisar muito, observar varios jogos e ter em mente o que voce quer pesquisar. As vezes, eh util buscar ate em outros gneros, desde que eles tenham o elemento que voce esta procurando.
+                - As vezes convem pesquisar jogos fora do ambito digital. Eles podem dar informacoes importantes sobre o ciclo de interacao do ser humano com o jogo
+                - Pontos de vista:
+                        - Mudanca de ponto de vista pode ajudar a criatividade.
+                        - Ao estudar, por exemplo, certo jogo, voce pode examinar as diferentes reacoes a um mesmo elemento de jogo, afim de dar pistas de como funciona a interacao e nos possiveis resultados.
+                - Como funciona o mundo:
+                        - Eh util trazer elementos do mundo real.
+
+                - Comecar a criar algo enquanto se pesquisa:
+                        - eh importante nao se perder em pesquisa, e buscar ja implementar e trazer os esse conhecimento ao seu jogo rapidamente
+                        - Trazer o conhecimento para o jogo permite a criacao de testes, buscando feedback.
+        
+        - OCR:
+                - Objectives, Challenges and Rewards.
+                - Sao 3 elementos muito importantes que funcionam como base do ciclo de feedback de qualquer jogo e portanto devem ser levados em consideracao na tomada de qualquer decisao de design. Pergunte-se sempre como isso afeta o gremio, nao digo, o OCR.
+                - Objectives:
+                        - Tem-se que deixar os objetivos do jogo bem claros, caso contrario, ele perde a motivacao. 
+                        - Exemplo do super mario.
+                        - Uma forma de indicar o caminho correto eh a presenca de conteudo.
+
+                - Challenges:
+                        - Deve ser on point motherfucker. 
+                        - Depende as vezes do publico alvo.
+                        - Ajuda a manter o interesse do jogador.
+
+                - Rewards:
+                        - 
