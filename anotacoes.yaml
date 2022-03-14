@@ -107,42 +107,59 @@ Publico-Alvo e Plataforma:
 		  - Cronograma de produção:
                 - Etapas: 
                         - Pre-alpha:
-                                - Requerimentos do seu projeto
-                                - Que tipos de software, profissionais, etc.
+                                - Determina-se os requerimentos do seu projeto
+                                - Que tipos de software, profissionais, e outros recursos vamos usar.
+
                                 - Determinação dos testes:
-                                        - O que você quer ver nos seus testes
-                        - Prototipagem 
-                                - Validação dos conceitos fundamentais do jogo.
+                                        - Teoriazacao?
+                                        - O que você quer analisar nos seus testes
+                                        - Feeling, interacao? 
+                                        - O que voce quer ver no seu jogo.
+
+                        - Prototipo:
+                                - Principais mecanicas e conceitos fundamentais do jogo serao validadas.
                                 - Não vai estar presente na versão final:
                                        - Deve ser bem rápido, 
                                        - Facil de se modificar. 
                                        - Pode ser baguncado Não se apegue. 
 
                                 - Experimentação:
-                                        - Brincar muito com os valores.
+                                        - Brincar muito com os valores, observando as mudancas.
                                         - Ouvir feedbacks.
                                         - ver se a idéia funciona.
+                                        - Eh o principal do jogo.
 
+                                - Eh importante fazer em pouco tempo.
                                 - Pico8
                                 - Risk assessment:
                                         - Anotar quais o possiveis problemas na idéia geral
 
-                        - Planejamento do desenvolvimento:
+                        - Desenvolvimento:
                                 - Uma vez validada a parte da prototipagem, planeja-se o desenvolvimento.
                                 - Planejamento do desenvolvimento do gueime.			
                                 - Ferramentas:
+                                        - Ferramentas remotas:
+                                                - Slack (?)
                                         - Scrum:
                                                 - COmum no mercado de desenvolvimento de games.
-                                                - Baseado em dividir grandes partes em sprints
+                                                - Baseado em dividir grandes trabalhos em sprints
                                                 - Daily Meetings.
+                                                - Backlog.
                         - Versão alpha:
+                                - Ja foram implementadas as principais mecanicas, principais artes. Esta em uma versao rudimentar, mas utilizavel.
                                 - Começa-se os primeiros testes técnicos.
                                 - Bugs:
+                                        - Ha bugs.
                                         - São separados em:
                                                 - Bugs P1: 
-                                                        - Aqueles que atrapalham o jogo. São bugs maiores
-                                                - Bugs P2
-                                                - Bugs P3
+                                                        - Aqueles importantes e que atrapalham fortemente a experiencia do jogo. São bugs maiores.
+
+                                                - Bugs P2:
+                                                        - Incomodam a experiencia, sao intermitentes, mas nao muito serios.
+
+                                                - Bugs P3:
+                                                        - Sao menores, mas podem ser ignorados.
+                                                - Little thought: porque nao usamos esses conceitos de bugs para
                                 - Balanceamento:
                                          - Pode haver quebra de expectativa
                                          - Fazer o jogador sentir que ele está aprendendo por si
@@ -152,13 +169,15 @@ Publico-Alvo e Plataforma:
                         - Versão Beta:
                                 - Grande quantidade de testes.
                                 - Não há alterações mais drásticas
-                        - Polimento:
-                                - Melhoria das mecânicas, sistemas e a apresentação deles
+                                - Polimento:
+                                        - Melhoria das mecânicas, sistemas e a apresentação deles
+        
                         - Closed Beta Version 
                                 - Testes internos.
                         - Release candidate (ou open beta?)
                                 - Fase de testes final.
                         - Versão final.
+                                - As vezes eh chamada de versao gold.
                                 - A mais completa.
                 - COletado do Stack Exchange:
                         - Link: https://gamedev.stackexchange.com/questions/75809/what-is-the-difference-between-an-alpha-and-a-beta-release/109438#109438?newreg=e4d838a9a9d241b3b89c1f767e884e7d
