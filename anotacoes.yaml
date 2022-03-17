@@ -398,4 +398,10 @@ Jogabilidade:
             - Eh importante que o jogador sinta que seus controles tenham importancia ou poder.
 
 Regras e Estrutura do jogo:
-    
+    - Regras e Caracteristicas:
+        - As caracteristicas do jogo servem, em parte, e devem seguir as regras.
+        - Exemplo: Um tabuleiro de xadrez tem 8x8 quadrados. Nao iriamos fazer um tabuleiro alem disso.
+    - Clareza e consistencia:
+        - As regras devem se manter consistentes e nao mudar ao longo da partida sem ficar BEM claro
+        - Ajuda se tiver alguma referencia a outras experiencias. Isso da ao jogador alguma familiaridade pelo menos com parcela dos elementos. E.g. = it takes two.
+        - Voce pode criar coisas novas misturando coisas que ja existem. (pizza mexicana)
