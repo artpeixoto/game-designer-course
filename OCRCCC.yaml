@@ -1,0 +1,23 @@
+OCR:
+        Objective:
+                O jogo eh dividido em capitulos, e os capitulos sao divididos em fases. Apesar dos capitulos serem lineares, isto eh, o jogador precisa finalizar um para comecar o proximo, as fases de um capitulo podem ser concluidas e sao apresentadas sem ordem. Para avancar de um capitulo ao proximo, o jogador deve concluir um certo numero de desafios daquele capitulo (ou seja, ele nao precisa concluir todos os desafios). De forma geral, cada capitulo visa ensinar alguma mecanica principal e testar a habilidade do jogador com ela.
+                Cada fase eh definida por um desafio. O desafio podera variar em forma e intensidade, mas eh sempre algo que deve ser resolvido pelo jogador usando alguma engenhoca. O objetivo do jogador eh, entao vencer os desafios para avancar os capitulos
+                Um exemplo de desafio poderia ser algo do tipo 
+                "ha uma barra de ferro no chao. O jogador deve criar alguma maquina que a levante a uma altura qualquer, mas sem move-la horizontalmente (sem mover exatametne eh impossivel, entao aqui, ha um limite de, digamos, 1mm)  ou rotaciona-la em qualquer eixo" - Esse desafio, por exemplo, poderia servir para testar a habilidade do jogador de criar mecanismos precisos.
+                Outros objetivos pessoais podem incluir ter acesso a todas as ferramentas e opcoes esteticas do jogo, afim de ter criacoes muito bonitas ou muito elegantes, e compartilhar ela com outros jogadores.
+                
+        Rewards:
+                Ao final de cada fase, o jogador pode ganhar ferramentas, dispositivos, materiais ou projetos. O tipo de recompensa disponivel para cada fase estara visivel no menu de selecao. A recompensa em si, nao.
+        
+                A ideia principal eh que ao se deparar com um capitulo novo, o jogador ira experimetnar as fases dele. Algumas podem ser, inicialmente, dificeis de se criar uma solucao com os recursos que ele tem no momento, mas ele pode optar por outras fases mais simples, onde ele conseguiria recursos que seriam adequadas para resolver as fases que anteriormente eram mais dificeis.
+                Note, no entanto, que esses recursos nao sao necessariamente melhores. AO inves disso, eles diferem em seus parametros, dando mais variedade ao que o jogador pode criar. Motores, por exemplo poderiam ser rapidos e fracos ou fortes e lentos, ou fortes e rapidos, mas que exigem MUITA energia para funcionar.
+                
+                Por exemplo, o jogador tenta uma certa fase F1. Ela consiste em lancar certos objetos pesados a uma certa distancia. Na primeira vez que o jogador tentar essa fase, ele tem acesso a, por exemplo, os materiais "plastico" e "liga de aco". Eh possivel criar uma solucao com ambos, mas ela nao eh simples, pois o plastico nao eh forte o suficiente para levantar esses objetos, e a liga de aco eh, mas ela eh muito pesada e o jogador nao tem acesso a motores tao fortes e tao rapidos para conseguir movimenta a grande estrutura de metal.  
+
+                O jogador tenta, mas decide ver as outras fases do capitulo disponiveis primeiro, e nota que uma delas disponibiliza um novo tipo de material. Essa fase eh mais facil de se executar com o que ele tem, e ele eh recompensado com a "liga de aluminio". Aluminio eh um metal mole e muito leve. E serve perfeitamente como um intermediario entre plastico e aco.  
+
+                Em engenharia, de forma geral, raramente tem-se uma ferramenta ou dispositivo ou solucao perfeitametne melhor que outro. Ao inves disso, cada um atende melhor um conjunto de situacoes, e o jogo deve refletir isso, tanto nos desafios propostos quanto nas recompensas. Outras recompensas poderiam ser projetos de mecanismos, ou certas ferramentas esteticas, como pintura em linhas pretas e laranjas metalizadas.
+
+
+        Desafio:
+CCC:

@@ -217,6 +217,21 @@ Produção:
         - Acontece durante todo o processo.
         - Registrar os feedbacks.
 
+Pesquisa de referencias:
+    - Pesquisar e analisar muitos jogos
+    - Eh bom pesquisar muito, observar varios jogos e ter em mente o que voce quer pesquisar. As vezes, eh util buscar ate em outros gneros, desde que eles tenham o elemento que voce esta procurando.
+    - As vezes convem pesquisar jogos fora do ambito digital. Eles podem dar informacoes importantes sobre o ciclo de interacao do ser humano com o jogo
+    - Pontos de vista:
+        - Mudanca de ponto de vista pode ajudar a criatividade.
+        - Ao estudar, por exemplo, certo jogo, voce pode examinar as diferentes reacoes a um mesmo elemento de jogo, afim de dar pistas de como funciona a interacao e nos possiveis resultados.
+    - Como funciona o mundo:
+        - Eh util trazer elementos do mundo real.
+
+    - Comecar a criar algo enquanto se pesquisa:
+        - eh importante nao se perder em pesquisa, e buscar ja implementar e trazer os esse conhecimento ao seu jogo rapidamente
+        - Trazer o conhecimento para o jogo permite a criacao de testes, buscando feedback.
+
+
 Jogabilidade:
     - Jocus -> atividade estruturada onde ha a figura do jogador.
     - Elementos de um jogo:
@@ -246,21 +261,6 @@ Jogabilidade:
 
         - Satisfacao:
             - Tudo isso deve ser unido, amarrado de forma satisfatoria, que traga valor ao jogador, geralmente por diversao.
-
-    - Pesquisa de referencias:
-        - Pesquisar e analisar muitos jogos
-        - Eh bom pesquisar muito, observar varios jogos e ter em mente o que voce quer pesquisar. As vezes, eh util buscar ate em outros gneros, desde que eles tenham o elemento que voce esta procurando.
-        - As vezes convem pesquisar jogos fora do ambito digital. Eles podem dar informacoes importantes sobre o ciclo de interacao do ser humano com o jogo
-        - Pontos de vista:
-            - Mudanca de ponto de vista pode ajudar a criatividade.
-            - Ao estudar, por exemplo, certo jogo, voce pode examinar as diferentes reacoes a um mesmo elemento de jogo, afim de dar pistas de como funciona a interacao e nos possiveis resultados.
-        - Como funciona o mundo:
-            - Eh util trazer elementos do mundo real.
-
-        - Comecar a criar algo enquanto se pesquisa:
-            - eh importante nao se perder em pesquisa, e buscar ja implementar e trazer os esse conhecimento ao seu jogo rapidamente
-            - Trazer o conhecimento para o jogo permite a criacao de testes, buscando feedback.
-
     - OCR:
         - Objectives, Challenges and Rewards.
         - Sao 3 elementos muito importantes que funcionam como base do ciclo de feedback de qualquer jogo e portanto devem ser levados em consideracao na tomada de qualquer decisao de design. Pergunte-se sempre como isso afeta o gremio, nao digo, o OCR.
@@ -310,31 +310,6 @@ Jogabilidade:
                 - Reflexos
                 - Ritmo
                 - Raciocinio
-                
-            - Taxonomia Plan Practice Improvise:
-                - Improvisation:
-                    - Figure out on the flight
-                    - Exemplo: correr da policia em GTA
-                    - Roguelikes.
-
-                - Planned:
-                    - Jogos dificeis, em que o jogador aprende por treinamento e aperfeicoamento
-                    - O jogador sabe exatamente o que vai encarar. Trata-se de uma questao de executar e melhorar sua execucao.
-                    - Eg.: Dark Souls
-
-                - Practice:
-                    - O jogador tem um conceito dos desafios que ira encontrar. Ele tem ferramentas e pequenos planos para situacoes gerais, mas nao eh completamente previsivel
-                    - Ele se assemelha a uma mistura dos dois acima mas ele nao eh, repito, ele nao eh uma mistura dos dois acima.
-                    - O que permite esses jogos fazerem sentido eh o conceito de generalizacao. Deve haver padroes nos desafios que o jogador pode encontrar e pode aprender a lidar com, .
-                    - sao marcados por pequenos valores de aleatoriedade com caracteristicas caoticas.
-                    - Exemplo: Magic the Gathering
-                    - (?) Pode ser dividido em dois:
-                        - O que diferencia basicamente eh quanto do planejamento envolve os pedacos de pratica e improvisacao e como elas estao presentes 
-                        - Practiced improvisation:
-                            - o jogador tem  pecas de solucoes, as quais ele deve acessar e usar conforme o jogo desenrola. Parte do desafio e do prazer esta em te-las e procurar qual a melhor.
-                        - Improvisation supporting plans: 
-                            - Nessa situacao, o jogador tem um plano previo e vai usar da sua habilidade para se ajustar as condicoes do jogo e fazer seu plano acontecer. Note que o plano nao eh completo, mas eh uma prese
-
         - Rewards:
             - Recompensas que dependem dos desafios.
             - Servem como farol para o jogador ter uma razao de passar por aquele tranco
@@ -397,7 +372,6 @@ Jogabilidade:
 
             - Eh importante que o jogador sinta que seus controles tenham importancia ou poder.
 
-Regras e Estrutura do jogo:
     - Regras e Caracteristicas:
         - As caracteristicas do jogo servem, em parte, e devem seguir as regras.
         - Exemplo: Um tabuleiro de xadrez tem 8x8 quadrados. Nao iriamos fazer um tabuleiro alem disso.
@@ -405,3 +379,111 @@ Regras e Estrutura do jogo:
         - As regras devem se manter consistentes e nao mudar ao longo da partida sem ficar BEM claro
         - Ajuda se tiver alguma referencia a outras experiencias. Isso da ao jogador alguma familiaridade pelo menos com parcela dos elementos. E.g. = it takes two.
         - Voce pode criar coisas novas misturando coisas que ja existem. (pizza mexicana)
+    - Habilidades do jogador:
+        - A habilidade do jogador eh basicamente o que se cobra dele, durante 
+        - A escolha de quais habilidades vai-se cobrar e como isso sera feito depende do publico alvo, do momento no jogo, curva de dificuldade, etc.
+        - Tipos:
+            - habilidade de timing
+            - Reflexos
+            - Medida (controle): 
+                - Exemplo: jogos de corrida, como mario
+                - Exemplo: pescaria em stardew valley
+                - Uma forma de compreender, por exmeplo, pode ser como um sistema de controle. O jogo propoe uma planta H(s) de comportamento dificil, e o jogador eh um compensador que deve ajusta-la
+            - Precisao:
+                - Exemplo: jogos de tiro com sniper 
+            - Estrategia:
+                - Gerenciamento:
+                    - Gerir recursos no jogo.
+                    - Exemplo: StarCraft 2
+                    - Sao jogos com muitos elementos. Dificeis de se montar tutoriais.
+                - RTS:
+                    - Gerenciamento em estilo competitivo 
+
+                - Jogos taticos:
+                    - Jogos em turno
+
+            - Inteligencia:
+                - Exigem basicamente raciocinio.          
+
+        - Taxonomia Plan Practice Improvise:
+            - Improvisation:
+                - Figure out on the flight
+                - Exemplo: correr da policia em GTA
+                - Roguelikes.
+
+            - Planned:
+                - Jogos dificeis, em que o jogador aprende por treinamento e aperfeicoamento
+                - O jogador sabe exatamente o que vai encarar. Trata-se de uma questao de executar e melhorar sua execucao.
+                - Eg.: Dark Souls
+
+            - Practice:
+                - O jogador tem um conceito dos desafios que ira encontrar. Ele tem ferramentas e pequenos planos para situacoes gerais, mas nao eh completamente previsivel
+                - Ele se assemelha a uma mistura dos dois acima mas ele nao eh, repito, ele nao eh uma mistura dos dois acima.
+                - O que permite esses jogos fazerem sentido eh o conceito de generalizacao. Deve haver padroes nos desafios que o jogador pode encontrar e pode aprender a lidar com, .
+                - sao marcados por pequenos valores de aleatoriedade com caracteristicas caoticas.
+                - Exemplo: Magic the Gathering
+                - (?) Pode ser dividido em dois:
+                    - O que diferencia basicamente eh quanto do planejamento envolve os pedacos de pratica e improvisacao e como elas estao presentes 
+                    - Practiced improvisation:
+                        - o jogador tem  pecas de solucoes, as quais ele deve acessar e usar conforme o jogo desenrola. Parte do desafio e do prazer esta em te-las e procurar qual a melhor.
+                    - Improvisation supporting plans: 
+                        - Nessa situacao, o jogador tem um plano previo e vai usar da sua habilidade para se ajustar as condicoes do jogo e fazer seu plano acontecer. Note que o plano nao eh completo, mas eh uma prese
+    - Tipos de Experiencia do Jogador:
+        - Sensacoes e impressoes dos jogadores
+        - Todos os elementos do jogo usam a jogabilidade como canal para se conectar ao jogador e entregar a ele as sensacoes ou experiencia pretendida.
+        - audio eh excelente.
+        - Intercalacao de experiencias:
+            - sao mudancas de tipo, servem como elemento de narracao da experiencia.
+        - Personalidade do jogo:
+            - O jogo deve ter personalidade. Essas experiencias devem ser planejadas para reforca-lo
+
+        - Tipos de experiencias:
+            - Contemplacao:
+                - Cenarios ludicos.
+                - Jogos lentos, sem muito desafio, com experiencias mais passivas.
+            - Tensao:
+                - pass
+            - Desafio:
+                - Exemplo: Soulslike
+            - Relaxante:
+
+            - Empolgacao:
+                - Aventura e diversao.
+                - novidade
+                - Muita satisfacao
+            - Emocao:
+                - Historias mais 
+    - Motivacao do jogador:
+        - Deve haver uma forte relacao entre o sentimento de satisfacao e as acoes do jogador
+        - Acao satisfatoria
+        - Perspectiva:
+        - Motivacao Social:
+            - O jogo pode se tornar uma forma de se expressar socialmente
+        - Significado:
+            - As recompensas do jogador devem ter algum significado.
+            - (?): Seria tipo uma contextualizacao das recompensas do jgoo?
+
+        - Locais de motivacao: 
+            - Motivacao interna:
+                - Tem seu valor dentro do proprio jogo
+            - Motivacao externa:
+                - Alguns jogos tem consequencias no mundo real. Fazer o jogar do jogo interagir com essas consequencias pode aumentar o grgau de imersao do seu jogador
+                - Essas, no entanto, sao mais relevantes em jogos mais famosos.
+
+        - Distancia dos objetivos:
+            - Curto prazo:
+                - Exemplo: matar um inimigo num jogo
+            - Medio prazo:
+                - Exemplo: acumular dinheiro num jogo
+            - ongo prazo
+    - Variedade e fluxo:
+        - Variedade de conteudo, estimulos, sao elementos para manter o interesse do jogador.
+        - Apresentar variedade dos principais elementos do jogo em um ritmo constante.
+        - Tipos de variedades:
+            - Atraves de mecanicas auxiliares
+            - Modificadores de mecanicas.
+
+        - Reaproveitamento de recursos.
+
+    - Fluxo do jogo:
+
